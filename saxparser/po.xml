@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<purchaseOrder>
+     <orderItems>
+          <item>
+               <itemCode>IND007</itemCode>
+               <quantity>7</quantity>
+          </item>
+     </orderItems>
+     <shippingAddress type="primary">
+          <addressLine1>Customer007</addressLine1>
+          <addressLine2>Jayanagar</addressLine2>
+          <city>Bangalore</city>
+          <state>Karnataka</state>
+          <pin>560011</pin>
+          <country>India</country>
+     </shippingAddress>
+</purchaseOrder>
